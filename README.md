@@ -12,4 +12,4 @@ To run this file u need jdk installed at your Computer, cz its java based :D
 Thanks
 Muhammad Qori.
 
-NB : Currenty maximum character is 26 lol >.<
+NB : Currenty maximum group character is 26 lol >.<
